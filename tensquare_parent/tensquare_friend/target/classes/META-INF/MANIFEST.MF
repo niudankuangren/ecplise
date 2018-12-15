@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Administrator
+Build-Jdk: 9.0.1
+Implementation-Title: tensquare_friend
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tensquare
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/tensquare_parent/tensquare_friend
+Created-By: Maven Integration for Eclipse
+
